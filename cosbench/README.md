@@ -2,7 +2,7 @@
 
 ### Install Java 8
 ```sh
-apt-get update -y; apt-get install openjdk-8-headless-jre -y
+apt-get update -y; apt-get install openopenjdk-8-jre-headless -y
 ```
 
 ### Install COSBench
